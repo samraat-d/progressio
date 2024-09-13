@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1088990799337",
+    "project_id": "progressio-a1i1yq",
+    "storage_bucket": "progressio-a1i1yq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088990799337:android:47f1414f68d7009a6a9778",
+        "android_client_info": {
+          "package_name": "com.mycompany.progressio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088990799337-tvr2jags87snd7g09n39uo5jt23qhca6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.progressio",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1088990799337-8of7aoqhc88cqq68mh5donfr24je1i7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9ngCoDd9gWLI06OezrCfBXi0MGe8J6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088990799337-0lr0dcdmabhfvaghi5e15m45a7vbqnv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088990799337-3i9cnhcoibo9h546e66vlu33s0nmm4ca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.progressio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
